@@ -1,0 +1,54 @@
+{
+    "title":  "TFAC e-Voting 2569 Landing Page",
+    "language":  "th",
+    "type":  "static-html-github-pages",
+    "generatedAt":  "2026-07-08T18:45:25",
+    "sourceArchive":  "tfac_evoting_email_landing_merged.zip",
+    "entrypoint":  "index.html",
+    "importantDates":  {
+                           "eligibilityCheck":  "22 กรกฎาคม - 14 สิงหาคม 2569",
+                           "meetingAndVoting":  "15 สิงหาคม 2569 เวลา 09.00-16.00 น."
+                       },
+    "links":  [
+                  {
+                      "label":  "ตรวจสอบสิทธิ",
+                      "url":  "https://e-voting.tfac.or.th/check"
+                  },
+                  {
+                      "label":  "เข้าร่วมประชุมและลงคะแนน",
+                      "url":  "https://e-voting.tfac.or.th/login"
+                  }
+              ],
+    "assets":  [
+                   {
+                       "file":  "assets/images/candidate-list-team-1.jpg",
+                       "bytes":  364485,
+                       "width":  1100,
+                       "height":  1424
+                   },
+                   {
+                       "file":  "assets/images/candidate-list-team-2.jpg",
+                       "bytes":  354706,
+                       "width":  1100,
+                       "height":  1424
+                   },
+                   {
+                       "file":  "assets/images/mascot-vote.png",
+                       "bytes":  328217,
+                       "width":  560,
+                       "height":  840
+                   },
+                   {
+                       "file":  "assets/images/qr-check-right.png",
+                       "bytes":  1394,
+                       "width":  330,
+                       "height":  330
+                   },
+                   {
+                       "file":  "assets/images/qr-evoting-login.png",
+                       "bytes":  1429,
+                       "width":  330,
+                       "height":  330
+                   }
+               ]
+}
